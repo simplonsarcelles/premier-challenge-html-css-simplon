@@ -19,3 +19,4 @@ A picture is worth a thousand words, [here is what you should build in this chal
 - You can use [Font Awesome](http://fortawesome.github.io/Font-Awesome/) to find nice icons (e.g. for social networks). It is a very convenient library since it is a **font** of icons (hence it will be very easy to resize these icons, change their color, and add animations on them!)
 - Don't forget the page `<title>` in the `<head>` section, and other important metatags like `<meta charset="utf-8">`.
 - You could use the `_target="blank"` attribute on your links to make them opened on other tabs.
+- For the time being you can use the table element to organize your favorite movies

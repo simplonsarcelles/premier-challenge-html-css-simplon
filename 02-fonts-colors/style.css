@@ -1,0 +1,45 @@
+body{
+   background-color: lightgray;
+    padding: 15px;
+}
+h1,h2{
+    font-family: 'Barlow Condensed', sans-serif 
+ 
+}
+p{
+font-family: 'Barlow', sans-serif;
+     font-size: 20px;
+    color:#934C3D; 
+} 
+.tom {
+    border-radius: 50%;
+}
+.table, .debut {
+    display:flex;
+}
+img{
+    height: 300px;
+    width: 300px;    
+}
+.image{
+    margin: auto;
+}
+
+.pres {
+    padding: 25px;
+}
+.fcolor{
+    color: #2B335F; 
+}
+a{
+    color:  #202542;
+    text-decoration: none;
+}
+
+a:hover{ 
+    color: blue; 
+}
+
+ul{
+    list-style: none;
+}
